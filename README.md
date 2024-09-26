@@ -329,13 +329,6 @@ riot-dev-fdroid
 
 ### Revolt F-Droid Repo
 
-[https://fdroid.revolt.chat/repo/](https://fdroid.revolt.chat/repo/?fingerprint=0A9D2F61C8659801711E22177862F84C8134966F427973037A8FDFACFF07C4F2)  
-[![](qrcodes/0A9D2F61C8659801711E22177862F84C8134966F427973037A8FDFACFF07C4F2.png)](fdroidrepo://https://fdroid.revolt.chat/repo/?fingerprint=0A9D2F61C8659801711E22177862F84C8134966F427973037A8FDFACFF07C4F2)  
-
----
-
-### Revolt F-Droid Repo
-
 [https://fdroid.revolt.chat/repo](https://fdroid.revolt.chat/repo?fingerprint=0A9D2F61C8659801711E22177862F84C8134966F427973037A8FDFACFF07C4F2)  
 [![](qrcodes/0A9D2F61C8659801711E22177862F84C8134966F427973037A8FDFACFF07C4F2.png)](fdroidrepo://https://fdroid.revolt.chat/repo?fingerprint=0A9D2F61C8659801711E22177862F84C8134966F427973037A8FDFACFF07C4F2)  
 
@@ -874,13 +867,6 @@ xarantolus/fdroid
 
 [https://skyjake.github.io/fdroid/repo](https://skyjake.github.io/fdroid/repo?fingerprint=46AEA2F2D86047AD65DA955126C6532F79B05AF2BFEFFC5CF1B467A79E686F86)  
 [![](qrcodes/46AEA2F2D86047AD65DA955126C6532F79B05AF2BFEFFC5CF1B467A79E686F86.png)](fdroidrepo://https://skyjake.github.io/fdroid/repo?fingerprint=46AEA2F2D86047AD65DA955126C6532F79B05AF2BFEFFC5CF1B467A79E686F86)  
-
----
-
-### Rohit's F-Droid Repository
-
-[https://thedoc.eu.org/fdroid/repo](https://thedoc.eu.org/fdroid/repo?fingerprint=B1358F5B942E5676B2935B83F39E3BAA363F3FDA9E53DB62113551D14B09A173)  
-[![](qrcodes/B1358F5B942E5676B2935B83F39E3BAA363F3FDA9E53DB62113551D14B09A173.png)](fdroidrepo://https://thedoc.eu.org/fdroid/repo?fingerprint=B1358F5B942E5676B2935B83F39E3BAA363F3FDA9E53DB62113551D14B09A173)  
 
 ---
 
